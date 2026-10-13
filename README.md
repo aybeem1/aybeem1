@@ -2,6 +2,6 @@
 - I’m interested in Engineering, Computer Science, Electronics, Music, And Design/Art.
 - I’m currently learning analog and digital electronics, and I'm taking cs50's intro to computer science.
 - My favorite book currently is Engineering in plain sight.
-- I'm currently reading Sapiens by Yuval Noah Harai.
+- I'm currently reading Dune
 - My favorite album is The Lo-fi's by Steve Lacy.
 - No AI was used in the making of this README :).
